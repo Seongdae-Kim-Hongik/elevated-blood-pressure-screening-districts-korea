@@ -1,0 +1,811 @@
+{
+ "grundy2005diagnosis": {
+  "type": "journal",
+  "authors": [
+   "Grundy SM",
+   "Cleeman JI",
+   "Daniels SR",
+   "Donato KA",
+   "Eckel RH",
+   "Franklin BA",
+   "Gordon DJ",
+   "Krauss RM",
+   "Savage PJ",
+   "Smith SC Jr",
+   "Spertus JA",
+   "Costa F"
+  ],
+  "title": "Diagnosis and management of the metabolic syndrome: an American Heart Association/National Heart, Lung, and Blood Institute Scientific Statement",
+  "journal": "Circulation",
+  "year": 2005,
+  "vol": "112",
+  "issue": "17",
+  "pages": "2735-52",
+  "doi": "10.1161/CIRCULATIONAHA.105.169404",
+  "pmid": "16157765"
+ },
+ "alberti2009harmonizing": {
+  "type": "journal",
+  "authors": [
+   "Alberti KG",
+   "Eckel RH",
+   "Grundy SM",
+   "Zimmet PZ",
+   "Cleeman JI",
+   "Donato KA",
+   "Fruchart JC",
+   "James WP",
+   "Loria CM",
+   "Smith SC Jr"
+  ],
+  "title": "Harmonizing the metabolic syndrome: a joint interim statement of the International Diabetes Federation Task Force on Epidemiology and Prevention; National Heart, Lung, and Blood Institute; American Heart Association; World Heart Federation; International Atherosclerosis Society; and International Association for the Study of Obesity",
+  "journal": "Circulation",
+  "year": 2009,
+  "vol": "120",
+  "issue": "16",
+  "pages": "1640-5",
+  "doi": "10.1161/CIRCULATIONAHA.109.192644",
+  "pmid": "19805654"
+ },
+ "jang2026age": {
+  "type": "journal",
+  "authors": [
+   "Jang YM",
+   "Son WH"
+  ],
+  "title": "Age- and sex-specific patterns in the prevalence of metabolic syndrome components in the Republic of Korea, 2014-2023: a repeated cross-sectional study of national health screening statistics",
+  "journal": "Osong Public Health Res Perspect",
+  "year": 2026,
+  "vol": "17",
+  "issue": "5",
+  "pages": "411-421",
+  "doi": "10.24171/j.phrp.2026.0195",
+  "pmid": "42772797"
+ },
+ "kang2022current": {
+  "type": "journal",
+  "authors": [
+   "Kang HT"
+  ],
+  "title": "Current Status of the National Health Screening Programs in South Korea",
+  "journal": "Korean J Fam Med",
+  "year": 2022,
+  "vol": "43",
+  "issue": "3",
+  "pages": "168-173",
+  "doi": "10.4082/kjfm.22.0052",
+  "pmid": "35610963"
+ },
+ "sarkar2018neighbourhood": {
+  "type": "journal",
+  "authors": [
+   "Sarkar C",
+   "Webster C",
+   "Gallacher J"
+  ],
+  "title": "Neighbourhood walkability and incidence of hypertension: Findings from the study of 429,334 UK Biobank participants",
+  "journal": "Int J Hyg Environ Health",
+  "year": 2018,
+  "vol": "221",
+  "issue": "3",
+  "pages": "458-468",
+  "doi": "10.1016/j.ijheh.2018.01.009",
+  "pmid": "29398408"
+ },
+ "chiu2016moving": {
+  "type": "journal",
+  "authors": [
+   "Chiu M",
+   "Rezai MR",
+   "Maclagan LC",
+   "Austin PC",
+   "Shah BR",
+   "Redelmeier DA",
+   "Tu JV"
+  ],
+  "title": "Moving to a Highly Walkable Neighborhood and Incidence of Hypertension: A Propensity-Score Matched Cohort Study",
+  "journal": "Environ Health Perspect",
+  "year": 2016,
+  "vol": "124",
+  "issue": "6",
+  "pages": "754-60",
+  "doi": "10.1289/ehp.1510425",
+  "pmid": "26550779"
+ },
+ "lai2023associations": {
+  "type": "journal",
+  "authors": [
+   "Lai KY",
+   "Webster C",
+   "Gallacher JE",
+   "Sarkar C"
+  ],
+  "title": "Associations of Urban Built Environment with Cardiovascular Risks and Mortality: a Systematic Review",
+  "journal": "J Urban Health",
+  "year": 2023,
+  "vol": "100",
+  "issue": "4",
+  "pages": "745-787",
+  "doi": "10.1007/s11524-023-00764-5",
+  "pmid": "37580546"
+ },
+ "park2020progress": {
+  "type": "journal",
+  "authors": [
+   "Park HK",
+   "Lee Y",
+   "Kang BW",
+   "Kwon KI",
+   "Kim JW",
+   "Kwon OS",
+   "Cobb LK",
+   "Campbell NRC",
+   "Blakeman DE",
+   "Kim CI"
+  ],
+  "title": "Progress on sodium reduction in South Korea",
+  "journal": "BMJ Glob Health",
+  "year": 2020,
+  "vol": "5",
+  "issue": "5",
+  "pages": "",
+  "doi": "10.1136/bmjgh-2019-002028",
+  "pmid": "32404470"
+ },
+ "choi2026degree": {
+  "type": "journal",
+  "authors": [
+   "Choi SS",
+   "Jung J",
+   "Kim JH",
+   "Jung SY",
+   "Yoo KD",
+   "Moon D",
+   "Lee SN",
+   "Jang WY",
+   "Jung JH",
+   "Her SH"
+  ],
+  "title": "Degree of urbanization and the prevalence of hypertension and diabetes mellitus in South Korea (Insight from Gyeonggi Province): A cross-sectional analysis with temporal trends, 2008-2023",
+  "journal": "BMC Public Health",
+  "year": 2026,
+  "vol": "26",
+  "issue": "1",
+  "pages": "",
+  "doi": "10.1186/s12889-026-28174-7",
+  "pmid": "42321737"
+ },
+ "zou2004modified": {
+  "type": "journal",
+  "authors": [
+   "Zou G"
+  ],
+  "title": "A modified poisson regression approach to prospective studies with binary data",
+  "journal": "Am J Epidemiol",
+  "year": 2004,
+  "vol": "159",
+  "issue": "7",
+  "pages": "702-6",
+  "doi": "10.1093/aje/kwh090",
+  "pmid": "15033648"
+ },
+ "hall2015obesity": {
+  "type": "journal",
+  "authors": [
+   "Hall JE",
+   "do Carmo JM",
+   "da Silva AA",
+   "Wang Z",
+   "Hall ME"
+  ],
+  "title": "Obesity-induced hypertension: interaction of neurohumoral and renal mechanisms",
+  "journal": "Circ Res",
+  "year": 2015,
+  "vol": "116",
+  "issue": "6",
+  "pages": "991-1006",
+  "doi": "10.1161/CIRCRESAHA.116.305697",
+  "pmid": "25767285"
+ },
+ "barros2003alternatives": {
+  "type": "journal",
+  "authors": [
+   "Barros AJ",
+   "Hirakata VN"
+  ],
+  "title": "Alternatives for logistic regression in cross-sectional studies: an empirical comparison of models that directly estimate the prevalence ratio",
+  "journal": "BMC Med Res Methodol",
+  "year": 2003,
+  "vol": "3",
+  "issue": "",
+  "pages": "21",
+  "doi": "10.1186/1471-2288-3-21",
+  "pmid": "14567763"
+ },
+ "gbd2025global": {
+  "type": "journal",
+  "authors": [
+   "Global Burden of Cardiovascular Diseases and Risks 2023 Collaborators"
+  ],
+  "title": "Global, Regional, and National Burden of Cardiovascular Diseases and Risk Factors in 204 Countries and Territories, 1990-2023",
+  "journal": "J Am Coll Cardiol",
+  "year": 2025,
+  "vol": "86",
+  "issue": "22",
+  "pages": "2167-2243",
+  "doi": "10.1016/j.jacc.2025.08.015",
+  "pmid": "40990886"
+ },
+ "lewington2002age": {
+  "type": "journal",
+  "authors": [
+   "Lewington S",
+   "Clarke R",
+   "Qizilbash N",
+   "Peto R",
+   "Collins R"
+  ],
+  "title": "Age-specific relevance of usual blood pressure to vascular mortality: a meta-analysis of individual data for one million adults in 61 prospective studies",
+  "journal": "Lancet",
+  "year": 2002,
+  "vol": "360",
+  "issue": "9349",
+  "pages": "1903-1913",
+  "doi": "10.1016/s0140-6736(02)11911-8",
+  "pmid": "12493255"
+ },
+ "ncdrisc2021worldwide": {
+  "type": "journal",
+  "authors": [
+   "NCD Risk Factor Collaboration (NCD-RisC)"
+  ],
+  "title": "Worldwide trends in hypertension prevalence and progress in treatment and control from 1990 to 2019: a pooled analysis of 1201 population-representative studies with 104 million participants",
+  "journal": "Lancet",
+  "year": 2021,
+  "vol": "398",
+  "issue": "10304",
+  "pages": "957-980",
+  "doi": "10.1016/S0140-6736(21)01330-1",
+  "pmid": "34450083"
+ },
+ "cheolseong2017data": {
+  "type": "journal",
+  "authors": [
+   "Seong SC",
+   "Kim YY",
+   "Khang YH",
+   "Park JH",
+   "Kang HJ",
+   "Lee H",
+   "Do CH",
+   "Song JS",
+   "Bang JH",
+   "Ha S",
+   "Lee EJ",
+   "Shin SA"
+  ],
+  "title": "Data resource profile: the National Health Information Database of the National Health Insurance Service in South Korea",
+  "journal": "Int J Epidemiol",
+  "year": 2017,
+  "vol": "46",
+  "issue": "3",
+  "pages": "799-800",
+  "doi": "10.1093/ije/dyw253",
+  "pmid": "27794523"
+ },
+ "lee2017socioeconomic": {
+  "type": "journal",
+  "authors": [
+   "Lee HY"
+  ],
+  "title": "Socioeconomic disparities in the prevalence, diagnosis, and control of hypertension in the context of a universal health insurance system",
+  "journal": "J Korean Med Sci",
+  "year": 2017,
+  "vol": "32",
+  "issue": "4",
+  "pages": "561-567",
+  "doi": "10.3346/jkms.2017.32.4.561",
+  "pmid": "28244279"
+ },
+ "lee2019temporal": {
+  "type": "journal",
+  "authors": [
+   "Lee H",
+   "Park S",
+   "Kim HC"
+  ],
+  "title": "Temporal and geospatial trends of hypertension management in Korea: a nationwide study 2002-2016",
+  "journal": "Korean Circ J",
+  "year": 2019,
+  "vol": "49",
+  "issue": "6",
+  "pages": "514-527",
+  "doi": "10.4070/kcj.2018.0358",
+  "pmid": "30808085"
+ },
+ "kim2026korea": {
+  "type": "journal",
+  "authors": [
+   "Kim HC",
+   "Lee H",
+   "Choi H",
+   "Kwon H",
+   "Lee J",
+   "Cho M",
+   "Son D",
+   "Lee SG",
+   "Ahn NY",
+   "Park J",
+   "Ahn SV",
+   "Cheon DY",
+   "Heo J",
+   "Jhee JH",
+   "Kim E",
+   "Lee HH",
+   "Lee JM",
+   "Lee SW",
+   "Shin MH",
+   "Yoon M"
+  ],
+  "title": "Korea hypertension fact sheet 2025: national trends in hypertension with a special analysis of hypertensive disorders of pregnancy",
+  "journal": "Clin Hypertens",
+  "year": 2026,
+  "vol": "32",
+  "issue": "",
+  "pages": "e13",
+  "doi": "10.5646/ch.2026.32.e13",
+  "pmid": "41953287"
+ },
+ "cornelissen2013exercise": {
+  "type": "journal",
+  "authors": [
+   "Cornelissen VA",
+   "Smart NA"
+  ],
+  "title": "Exercise training for blood pressure: a systematic review and meta-analysis",
+  "journal": "J Am Heart Assoc",
+  "year": 2013,
+  "vol": "2",
+  "issue": "1",
+  "pages": "e004473",
+  "doi": "10.1161/JAHA.112.004473",
+  "pmid": "23525435"
+ },
+ "roerecke2017effect": {
+  "type": "journal",
+  "authors": [
+   "Roerecke M",
+   "Kaczorowski J",
+   "Tobe SW",
+   "Gmel G",
+   "Hasan OSM",
+   "Rehm J"
+  ],
+  "title": "The effect of a reduction in alcohol consumption on blood pressure: a systematic review and meta-analysis",
+  "journal": "Lancet Public Health",
+  "year": 2017,
+  "vol": "2",
+  "issue": "2",
+  "pages": "e108-e120",
+  "doi": "10.1016/S2468-2667(17)30003-8",
+  "pmid": "29253389"
+ },
+ "leng2015socioeconomic": {
+  "type": "journal",
+  "authors": [
+   "Leng B",
+   "Jin Y",
+   "Li G",
+   "Chen L",
+   "Jin N"
+  ],
+  "title": "Socioeconomic status and hypertension: a meta-analysis",
+  "journal": "J Hypertens",
+  "year": 2015,
+  "vol": "33",
+  "issue": "2",
+  "pages": "221-229",
+  "doi": "10.1097/HJH.0000000000000428",
+  "pmid": "25479029"
+ },
+ "inskip1983methods": {
+  "type": "journal",
+  "authors": [
+   "Inskip H",
+   "Beral V",
+   "Fraser P",
+   "Haskey J"
+  ],
+  "title": "Methods for age-adjustment of rates",
+  "journal": "Stat Med",
+  "year": 1983,
+  "vol": "2",
+  "issue": "4",
+  "pages": "455-466",
+  "doi": "10.1002/sim.4780020404",
+  "pmid": "6672943"
+ },
+ "kang2015korea": {
+  "type": "journal",
+  "authors": [
+   "Kang YW",
+   "Ko YS",
+   "Kim YJ",
+   "Sung KM",
+   "Kim HJ",
+   "Choi HY",
+   "Sung C",
+   "Jeong E"
+  ],
+  "title": "Korea Community Health Survey data profiles",
+  "journal": "Osong Public Health Res Perspect",
+  "year": 2015,
+  "vol": "6",
+  "issue": "3",
+  "pages": "211-217",
+  "doi": "10.1016/j.phrp.2015.05.003",
+  "pmid": "26430619"
+ },
+ "riebler2016intuitive": {
+  "type": "journal",
+  "authors": [
+   "Riebler A",
+   "Sørbye SH",
+   "Simpson D",
+   "Rue H"
+  ],
+  "title": "An intuitive Bayesian spatial model for disease mapping that accounts for scaling",
+  "journal": "Stat Methods Med Res",
+  "year": 2016,
+  "vol": "25",
+  "issue": "4",
+  "pages": "1145-1165",
+  "doi": "10.1177/0962280216660421",
+  "pmid": "27566770"
+ },
+ "simpson2017penalising": {
+  "type": "journal",
+  "authors": [
+   "Simpson D",
+   "Rue H",
+   "Riebler A",
+   "Martins TG",
+   "Sørbye SH"
+  ],
+  "title": "Penalising model component complexity: a principled, practical approach to constructing priors",
+  "journal": "Stat Sci",
+  "year": 2017,
+  "vol": "32",
+  "issue": "1",
+  "pages": "1-28",
+  "doi": "10.1214/16-sts576"
+ },
+ "rue2009approximate": {
+  "type": "journal",
+  "authors": [
+   "Rue H",
+   "Martino S",
+   "Chopin N"
+  ],
+  "title": "Approximate Bayesian inference for latent Gaussian models by using integrated nested Laplace approximations",
+  "journal": "J R Stat Soc Series B Stat Methodol",
+  "year": 2009,
+  "vol": "71",
+  "issue": "2",
+  "pages": "319-392",
+  "doi": "10.1111/j.1467-9868.2008.00700.x"
+ },
+ "knorrheld2000bayesian": {
+  "type": "journal",
+  "authors": [
+   "Knorr-Held L"
+  ],
+  "title": "Bayesian modelling of inseparable space-time variation in disease risk",
+  "journal": "Stat Med",
+  "year": 2000,
+  "vol": "19",
+  "issue": "17-18",
+  "pages": "2555-2567",
+  "doi": "10.1002/1097-0258(20000915/30)19:17/18<2555::aid-sim587>3.0.co;2-#",
+  "pmid": "10960871"
+ },
+ "steegen2016increasing": {
+  "type": "journal",
+  "authors": [
+   "Steegen S",
+   "Tuerlinckx F",
+   "Gelman A",
+   "Vanpaemel W"
+  ],
+  "title": "Increasing transparency through a multiverse analysis",
+  "journal": "Perspect Psychol Sci",
+  "year": 2016,
+  "vol": "11",
+  "issue": "5",
+  "pages": "702-712",
+  "doi": "10.1177/1745691616658637",
+  "pmid": "27694465"
+ },
+ "dupont2022spatial": {
+  "type": "journal",
+  "authors": [
+   "Dupont E",
+   "Wood SN",
+   "Augustin NH"
+  ],
+  "title": "Spatial+: a novel approach to spatial confounding",
+  "journal": "Biometrics",
+  "year": 2022,
+  "vol": "78",
+  "issue": "4",
+  "pages": "1279-1290",
+  "doi": "10.1111/biom.13656",
+  "pmid": "35258102"
+ },
+ "lipsitch2010negative": {
+  "type": "journal",
+  "authors": [
+   "Lipsitch M",
+   "Tchetgen Tchetgen E",
+   "Cohen T"
+  ],
+  "title": "Negative controls: a tool for detecting confounding and bias in observational studies",
+  "journal": "Epidemiology",
+  "year": 2010,
+  "vol": "21",
+  "issue": "3",
+  "pages": "383-388",
+  "doi": "10.1097/EDE.0b013e3181d61eeb",
+  "pmid": "20335814"
+ },
+ "vanderweele2017sensitivity": {
+  "type": "journal",
+  "authors": [
+   "VanderWeele TJ",
+   "Ding P"
+  ],
+  "title": "Sensitivity analysis in observational research: introducing the E-value",
+  "journal": "Ann Intern Med",
+  "year": 2017,
+  "vol": "167",
+  "issue": "4",
+  "pages": "268-274",
+  "doi": "10.7326/M16-2607",
+  "pmid": "28693043"
+ },
+ "bell2015explaining": {
+  "type": "journal",
+  "authors": [
+   "Bell A",
+   "Jones K"
+  ],
+  "title": "Explaining fixed effects: random effects modeling of time-series cross-sectional and panel data",
+  "journal": "Polit Sci Res Methods",
+  "year": 2015,
+  "vol": "3",
+  "issue": "1",
+  "pages": "133-153",
+  "doi": "10.1017/psrm.2014.7"
+ },
+ "morgenstern1995ecologic": {
+  "type": "journal",
+  "authors": [
+   "Morgenstern H"
+  ],
+  "title": "Ecologic studies in epidemiology: concepts, principles, and methods",
+  "journal": "Annu Rev Public Health",
+  "year": 1995,
+  "vol": "16",
+  "issue": "",
+  "pages": "61-81",
+  "doi": "10.1146/annurev.pu.16.050195.000425",
+  "pmid": "7639884"
+ },
+ "vonelm2007strengthening": {
+  "type": "journal",
+  "authors": [
+   "von Elm E",
+   "Altman DG",
+   "Egger M",
+   "Pocock SJ",
+   "Gøtzsche PC",
+   "Vandenbroucke JP"
+  ],
+  "title": "The Strengthening the Reporting of Observational Studies in Epidemiology (STROBE) statement: guidelines for reporting observational studies",
+  "journal": "Lancet",
+  "year": 2007,
+  "vol": "370",
+  "issue": "9596",
+  "pages": "1453-1457",
+  "doi": "10.1016/S0140-6736(07)61602-X",
+  "pmid": "18064739"
+ },
+ "heidari2016sex": {
+  "type": "journal",
+  "authors": [
+   "Heidari S",
+   "Babor TF",
+   "De Castro P",
+   "Tort S",
+   "Curno M"
+  ],
+  "title": "Sex and gender equity in research: rationale for the SAGER guidelines and recommended use",
+  "journal": "Res Integr Peer Rev",
+  "year": 2016,
+  "vol": "1",
+  "issue": "",
+  "pages": "2",
+  "doi": "10.1186/s41073-016-0007-6",
+  "pmid": "29451543"
+ },
+ "besag1991bayesian": {
+  "type": "journal",
+  "authors": [
+   "Besag J",
+   "York J",
+   "Mollié A"
+  ],
+  "title": "Bayesian image restoration, with two applications in spatial statistics",
+  "journal": "Ann Inst Stat Math",
+  "year": 1991,
+  "vol": "43",
+  "issue": "1",
+  "pages": "1-20",
+  "doi": "10.1007/bf00116466"
+ },
+ "gelman2014understanding": {
+  "type": "journal",
+  "authors": [
+   "Gelman A",
+   "Hwang J",
+   "Vehtari A"
+  ],
+  "title": "Understanding predictive information criteria for Bayesian models",
+  "journal": "Stat Comput",
+  "year": 2014,
+  "vol": "24",
+  "issue": "6",
+  "pages": "997-1016",
+  "doi": "10.1007/s11222-013-9416-2"
+ },
+ "ord1995local": {
+  "type": "journal",
+  "authors": [
+   "Ord JK",
+   "Getis A"
+  ],
+  "title": "Local spatial autocorrelation statistics: distributional issues and an application",
+  "journal": "Geogr Anal",
+  "year": 1995,
+  "vol": "27",
+  "issue": "4",
+  "pages": "286-306",
+  "doi": "10.1111/j.1538-4632.1995.tb00912.x"
+ },
+ "hodges2010adding": {
+  "type": "journal",
+  "authors": [
+   "Hodges JS",
+   "Reich BJ"
+  ],
+  "title": "Adding spatially-correlated errors can mess up the fixed effect you love",
+  "journal": "Am Stat",
+  "year": 2010,
+  "vol": "64",
+  "issue": "4",
+  "pages": "325-334",
+  "doi": "10.1198/tast.2010.10052"
+ },
+ "harrison2015comparison": {
+  "type": "journal",
+  "authors": [
+   "Harrison XA"
+  ],
+  "title": "A comparison of observation-level random effect and beta-binomial models for modelling overdispersion in binomial data in ecology & evolution",
+  "journal": "PeerJ",
+  "year": 2015,
+  "vol": "3",
+  "issue": "",
+  "pages": "e1114",
+  "doi": "10.7717/peerj.1114",
+  "pmid": "26244118"
+ },
+ "lee2022hypertension": {
+  "type": "journal",
+  "authors": [
+   "Lee J",
+   "Wilkens J",
+   "Meijer E",
+   "Sekher TV",
+   "Bloom DE",
+   "Hu P"
+  ],
+  "title": "Hypertension awareness, treatment, and control and their association with healthcare access in the middle-aged and older Indian population: a nationwide cohort study",
+  "journal": "PLoS Med",
+  "year": 2022,
+  "vol": "19",
+  "issue": "1",
+  "pages": "e1003855",
+  "doi": "10.1371/journal.pmed.1003855",
+  "pmid": "34982770"
+ },
+ "kim2021ten": {
+  "type": "journal",
+  "authors": [
+   "Kim KI",
+   "Ji E",
+   "Choi JY",
+   "Kim SW",
+   "Ahn S",
+   "Kim CH"
+  ],
+  "title": "Ten-year trends of hypertension treatment and control rate in Korea",
+  "journal": "Sci Rep",
+  "year": 2021,
+  "vol": "11",
+  "issue": "1",
+  "pages": "6966",
+  "doi": "10.1038/s41598-021-86199-x",
+  "pmid": "33772056"
+ },
+ "lee2025regional": {
+  "type": "journal",
+  "authors": [
+   "Lee H",
+   "Lim J"
+  ],
+  "title": "Regional factors affecting the prevalence of hypertension using geographic information system",
+  "journal": "Sci Rep",
+  "year": 2025,
+  "vol": "15",
+  "issue": "1",
+  "pages": "29087",
+  "doi": "10.1038/s41598-025-14981-2",
+  "pmid": "40781477"
+ },
+ "mills2016global": {
+  "type": "journal",
+  "authors": [
+   "Mills KT",
+   "Bundy JD",
+   "Kelly TN",
+   "Reed JE",
+   "Kearney PM",
+   "Reynolds K",
+   "Chen J",
+   "He J"
+  ],
+  "title": "Global disparities of hypertension prevalence and control: a systematic analysis of population-based studies from 90 countries",
+  "journal": "Circulation",
+  "year": 2016,
+  "vol": "134",
+  "issue": "6",
+  "pages": "441-450",
+  "doi": "10.1161/CIRCULATIONAHA.115.018912",
+  "pmid": "27502908"
+ },
+ "web:rcore2026": {
+  "type": "web",
+  "authors": "R Core Team",
+  "title": "R: a language and environment for statistical computing. Version 4.6.0. Vienna: R Foundation for Statistical Computing",
+  "url": "https://www.R-project.org/",
+  "year": 2026,
+  "accessed": "November 18, 2026"
+ },
+ "web:mois2026population": {
+  "type": "web",
+  "authors": "Ministry of the Interior and Safety",
+  "title": "Resident registration population by district, sex and 5-year age group, 2011-2024",
+  "url": "https://jumin.mois.go.kr",
+  "year": 2026,
+  "accessed": "November 18, 2026"
+ },
+ "web:kosis2026screening": {
+  "type": "web",
+  "authors": "National Health Insurance Service",
+  "title": "National general health screening statistics: metabolic syndrome risk factors by district and sex (DT_35007_N138) and by sex and age (DT_35007_N139), distribution of systolic and diastolic blood pressure by province and age (DT_35007_N060-N063), existing hypertension and suspected hypertension (DT_35007_N105, DT_35007_N103), and screening targets and attendees (DT_35007_N001), 2013-2024. Korean Statistical Information Service",
+  "url": "https://kosis.kr",
+  "year": 2026,
+  "accessed": "November 18, 2026"
+ }
+}
